@@ -9,11 +9,14 @@ import { Container, Row, Col } from 'reactstrap'
 import heroImg from '../assets/images/hero-img.png'
 import '../styles/home.css'
 
+import Services from '../services/Services'
+
 const Home = () => {
 
   const year = new Date().getFullYear()
 
   return <Helmet title='Home'>
+
     <section className="hero__section">
       <Container>
         <Row>
@@ -37,6 +40,9 @@ const Home = () => {
         </Row>
       </Container>
     </section>
+
+    <Services />
+  
   </Helmet>
 }
 
