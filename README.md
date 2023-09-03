@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  MAB Mart Ecommerce Website
+  MAB Mart 
 </h1>
 
 <h3 align="center">
-  Category
+  Ecommerce Website
 </h3>
 
 
