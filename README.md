@@ -85,7 +85,7 @@ You can exclusively watch the video on this project from the making to deploying
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
 
-- Write points here
+- Firebase
 
 
 <br><br>
