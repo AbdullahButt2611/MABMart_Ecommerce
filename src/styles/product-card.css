@@ -1,5 +1,6 @@
 .product__item{
     cursor: pointer;
+    margin: 0 1.5rem;
 }
 
 .producut__info h3 {
@@ -22,8 +23,12 @@
 
 .product_cards_wrapper_home{
     display: flex;
-    column-gap: 1.2rem;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* column-gap: 0.2rem; */
 }
+
 
 .product__card-bottom .price{
     color: var(--primary-color);
