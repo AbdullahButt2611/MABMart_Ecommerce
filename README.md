@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="justify">
-  Description of project
+It
 </p>
 
 
