@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="justify">
-It is an
+It is an ecommerce
 </p>
 
 
