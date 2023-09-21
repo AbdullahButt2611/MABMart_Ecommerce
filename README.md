@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="justify">
-It is an ecommerce website in
+It is an ecommerce website in react
 </p>
 
 
